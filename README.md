@@ -33,16 +33,15 @@ public class AboutMe {
 ---
 
 <h2>💻 Skills </h2>
-<div class="skills-imgs">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-    <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-9-1175120.png" />
-    <img src="https://pngimg.com/d/mysql_PNG23.png" />
-</div>
----
+<p align="start">
+    <img src="./html.png" height="35" />
+    <img src="./css.png" height="35" />
+    <img src="./bootstrap.png" height="35" />
+    <img src="./javascript.png" height="35" />
+    <img src="./react.png" height="35" />
+    <img src="./java.png" height="35" />
+    <img src="./c.png" height="35" />
+    <img src="./python.png" height="35" />
+    <img src="./postgree.png" height="35" />
+    <img src="./mysql.png" width="35" />
+</p>
