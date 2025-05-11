@@ -1,18 +1,42 @@
-## Hi there 👋
+```java
+public class AboutMe {
+    private String name, location, profession;
+    private int age;
 
-<!--
-**andreonyzko/andreonyzko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    private String[] favoriteSkills, otherSkills;
+    private String[] hobbies;
+    private String[] education;
+    private String programParticipation;
 
-Here are some ideas to get you started:
+    public AboutMe() {
+        this.name = "André Luís Onyszko";
+        this.age = 20;
+        this.location = "Dois Vizinhos, Brazil";
+        this.profession = "Software Engineering Student";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        this.favoriteSkills = new String[] {
+            "HTML", "CSS", "JavaScript", "React",
+            "Java", "SQL"
+        };
 
-<h1>Teste</h1>
+        this.otherSkills = new String[] {
+            "C", "Python", "Bootstrap", "Git"
+        };
+
+        this.hobbies = new String[] {
+            "Building personal projects",
+            "Watching hardware-related videos",
+            "Playing video games",
+            "Watching movies and TV series"
+        };
+
+        this.education = new String[] {
+            "Technical High School in Informatics - IFPR",
+            "Bachelor’s Degree in Software Engineering - UTFPR",
+            "English Course - Wizard (5 years)"
+        };
+
+        this.programParticipation = "Participant in the UOL Compass scholarship and professional training program";
+    }
+}
+```
