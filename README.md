@@ -20,7 +20,7 @@ In addition to my academic studies, I continue to constantly seek out new source
     <img src="https://github.com/andreonyzko/andreonyzko/blob/main/img/c.png" height="35" />
     <img src="https://github.com/andreonyzko/andreonyzko/blob/main/img/python.png" height="35" />
     <img src="https://github.com/andreonyzko/andreonyzko/blob/main/img/postgree.png" height="35" />
-    <img src="https://github.com/andreonyzko/andreonyzko/blob/main/img/git.png" height="35" />
+    <img src="https://github.com/andreonyzko/andreonyzko/blob/main/img/my_sql.png" height="35" />
     <img src="https://github.com/andreonyzko/andreonyzko/blob/main/img/git.png" height="35">
 </p>
 
