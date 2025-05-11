@@ -3,10 +3,7 @@ public class AboutMe {
     private String name, location, profession;
     private int age;
 
-    private String[] favoriteSkills, otherSkills;
-    private String[] hobbies;
-    private String[] education;
-    private String programParticipation;
+    private String[] favoriteSkills, otherSkills, hobbies, education, programParticipation;
 
     public AboutMe() {
         this.name = "André Luís Onyszko";
@@ -15,8 +12,7 @@ public class AboutMe {
         this.profession = "Software Engineering Student";
 
         this.favoriteSkills = new String[] {
-            "HTML", "CSS", "JavaScript", "React",
-            "Java", "SQL"
+            "HTML", "CSS", "JavaScript", "React", "Java", "SQL"
         };
 
         this.otherSkills = new String[] {
