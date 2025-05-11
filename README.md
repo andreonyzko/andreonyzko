@@ -1,9 +1,3 @@
-<style>
-    .skills-imgs img{
-        width: 50px;
-    }
-</style>
-
 <h1>👨🏻‍💻 André Luís Onyszko</h1>
 <p>
 Hi, my name is André, I'm 20 years old and I'm a Software Engineering student at UTFPR. I'm currently participating in the UOL Compass Scholarship training program.
