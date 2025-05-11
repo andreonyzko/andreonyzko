@@ -43,5 +43,5 @@ public class AboutMe {
     <img src="./c.png" height="35" />
     <img src="./python.png" height="35" />
     <img src="./postgree.png" height="35" />
-    <img src="./mysql.png" width="35" />
+    <img src="./my_sql.png" width="35" />
 </p>
