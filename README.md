@@ -1,9 +1,9 @@
 ```java
 public class AboutMe {
-    private String name, location, profession;
-    private int age;
+    String name, location, profession;
+    int age;
 
-    private String[] favoriteSkills, otherSkills, hobbies, education, programParticipation;
+    String[] favoriteSkills, otherSkills, hobbies, education, programs;
 
     public AboutMe() {
         this.name = "André Luís Onyszko";
@@ -32,7 +32,9 @@ public class AboutMe {
             "English Course - Wizard (5 years)"
         };
 
-        this.programParticipation = "Participant in the UOL Compass scholarship and professional training program";
+        this.programs = new String[]{
+            "UOL Compass scholarship and professional training program"
+        };
     }
 }
 ```
