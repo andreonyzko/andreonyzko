@@ -8,6 +8,22 @@ In addition to my academic studies, I continue to constantly seek out new source
 </p>
 
 ---
+
+<h2>💻 Skills </h2>
+<p align="start">
+    <img src="./html.png" height="35" />
+    <img src="./css.png" height="35" />
+    <img src="./bootstrap.png" height="35" />
+    <img src="./javascript.png" height="35" />
+    <img src="./react.png" height="35" />
+    <img src="./java.png" height="35" />
+    <img src="./c.png" height="35" />
+    <img src="./python.png" height="35" />
+    <img src="./postgree.png" height="35" />
+    <img src="./my_sql.png" width="35" />
+</p>
+
+---
 <h2>☕ Hobbies and Education</h2>
 
 ```java
@@ -30,18 +46,3 @@ public class AboutMe {
     }
 }
 ```
----
-
-<h2>💻 Skills </h2>
-<p align="start">
-    <img src="./html.png" height="35" />
-    <img src="./css.png" height="35" />
-    <img src="./bootstrap.png" height="35" />
-    <img src="./javascript.png" height="35" />
-    <img src="./react.png" height="35" />
-    <img src="./java.png" height="35" />
-    <img src="./c.png" height="35" />
-    <img src="./python.png" height="35" />
-    <img src="./postgree.png" height="35" />
-    <img src="./my_sql.png" width="35" />
-</p>
