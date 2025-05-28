@@ -1,6 +1,6 @@
 <h1>👨🏻‍💻 André Luís Onyszko</h1>
 <p>
-Hi, my name is André, I'm 20 years old and I'm a Software Engineering student at UTFPR. I'm currently participating in the UOL Compass Scholarship training program.
+Hi, my name is André, I'm 20 years old and I'm a Software Engineering student at UTFPR.
 
 I usually say that video games, when I was still a child, captivated my passion for technology and opened the doors to the world of programming. As a teenager, I developed my first Discord bot through visual programming, which encouraged me to take my first web development course. From that moment on, I thought to myself: "This is what I want for my life!" So I enrolled at the Instituto Federal do Parana, where I completed technical high school in informatic.
 
